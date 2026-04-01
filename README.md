@@ -1,4 +1,4 @@
-# CheckOS Made by omar. this is my linux sysytem checker and fixer project. It's not perfect, and I would be happy if someone wanted to modify or improve it. Logs issues and runs fixes automatically. 
+CheckOS Made by omar. this is my linux sysytem checker and fixer project. It's not perfect, and I would be happy if someone wanted to modify or improve it. Logs issues and runs fixes automatically. 
 thank for downloading it!!
 
 ## How to Use
