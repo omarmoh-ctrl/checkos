@@ -1,12 +1,12 @@
 # CheckOS 
 
-Made by omar. this is my linux system checker and fixer project. It's not perfect, and I would say there are plenty more that are just better 
+Made by omar. this is my linux system checker and fixer project. It's not perfect, and I say there are plenty more that are just better 
 
 I would be happy if someone wanted to modify or improve it. 
 thank you for downloading it!!
 
 # bugs and problems
-i would appreciate it if you find any bugs dont't hesitate to tell me 
+if you find any bugs dont't hesitate to tell me!!
 
 ## How to Use
 
@@ -20,4 +20,4 @@ i would appreciate it if you find any bugs dont't hesitate to tell me
    cd checkos
 
 # collaberation
-if you wanna work to improve this project with me i would be more than happy to do it 
+if you wanna work to improve this project with me I would be more than happy to do it 
