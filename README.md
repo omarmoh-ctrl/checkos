@@ -1,10 +1,11 @@
-#CheckOS 
+# CheckOS 
 
 Made by omar. this is my linux system checker and fixer project. It's not perfect, and I would say there are plenty more that are just better 
 
-I would be happy if someone wanted to modify or improve it. Logs issues and runs fixes automatically. 
+I would be happy if someone wanted to modify or improve it. 
 thank you for downloading it!!
-#bugs and problems
+
+# bugs and problems
 i would appreciate it if you find any bugs dont't hesitate to tell me 
 
 ## How to Use
@@ -18,5 +19,5 @@ i would appreciate it if you find any bugs dont't hesitate to tell me
    ```bash
    cd checkos
 
-#collaberation
+# collaberation
 if you wanna work to improve this project with me i would be more than happy to do it 
